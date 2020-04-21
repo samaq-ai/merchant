@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1352" height="89" viewBox="0 0 1352 89">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1352" height="89"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1352" height="89" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="rgba(109,109,109,0.61)" stroke="#707070" stroke-width="1">
+      <rect width="1360" height="93" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1359" height="92" fill="none"/>
+    </g>
+    <text id="Sama_Business_Services_" data-name="Sama Business Services®" transform="translate(30 7)" fill="#3b3b3b" font-size="53" font-family="SegoeUI, Segoe UI"><tspan x="0" y="57">Sama Business Services®</tspan></text>
+    <text id="C-Panel" transform="translate(1017 7)" fill="rgba(59,59,59,0.72)" font-size="48" font-family="SegoeUI, Segoe UI" text-decoration="underline"><tspan x="110.766" y="52">C-Panel</tspan></text>
+  </g>
+</svg>

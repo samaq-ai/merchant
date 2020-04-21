@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <clipPath id="clip-Web_1366_1">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_1" data-name="Web 1366 – 1" clip-path="url(#clip-Web_1366_1)">
+    <rect width="1366" height="768" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(-10.885 -56.601)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(43.115 32.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_3" data-name="Path 3" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(169.115 119.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(228.115 208.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(287.115 310.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_6" data-name="Path 6" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(363.115 416.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <path id="Path_7" data-name="Path 7" d="M1376.885,56.6s-859.087,70.892-1366,768" transform="translate(428.115 503.399)" fill="rgba(155,155,155,0.1)" stroke="#707070" stroke-width="1"/>
+    <text id="Sama_Business_Services" data-name="Sama Business Services" transform="translate(87 57)" fill="#707070" font-size="72" font-family="SegoeUI, Segoe UI"><tspan x="0" y="78">Sama Business Services</tspan></text>
+  </g>
+</svg>
